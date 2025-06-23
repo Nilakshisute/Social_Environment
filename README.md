@@ -2,7 +2,7 @@
 
 A social networking platform with automated content moderation and context-based authentication system.
 
-![UI-community](resources/Schema-Diagram.png)
+![UI-community](resources/UI-community.png)
 
 ## Table of Contents
 
