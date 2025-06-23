@@ -1,6 +1,6 @@
 # SocialEcho
 
-A social networking platform with automated content moderation and context-based authentication system.
+Social Environment is a MERN-based social networking platform that includes content moderation via NLP APIs and secure, context-based authentication. It supports standard social media features like posts, comments, likes, and user interactions.
 
 ![UI-community](resources/UI-community.png)
 
